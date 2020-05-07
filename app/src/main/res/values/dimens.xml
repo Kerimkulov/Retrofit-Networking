@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="border_search">15dp</dimen>
+    <dimen name="padding_child">10dp</dimen>
+    <dimen name="margin_left_tags">5dp</dimen>
+</resources>

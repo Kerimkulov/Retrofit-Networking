@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProfitNetworking</string>
+    <string name="search_content">search</string>
+    <string name="hint_text_tag">input tag</string>
+    <string name="image">image</string>
+    <string name="tags_label">Tags: </string>
+    <string name="search_label">Search...</string>
+    <string name="toolbar_title">Images</string>
+</resources>
